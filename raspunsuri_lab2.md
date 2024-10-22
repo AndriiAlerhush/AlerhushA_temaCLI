@@ -3,7 +3,7 @@ LABORATOR 2
 
 1. Axele și cubul au dispărut de pe fereastră.
 
-3. RĂSPUNS LA ÎNTREBĂRI
+3. RĂSPUNSURI LA ÎNTREBĂRI
 
 1) Ce este un viewport?
 Un viewport în OpenGL este regiunea dreptunghiulară de pe fereastra de afișare unde sunt desenate obiectele 3D.
