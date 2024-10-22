@@ -1,0 +1,28 @@
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\lab2.exe.config
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\lab2.exe
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\lab2.pdb
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\OpenTK.dll
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\OpenTK.GLControl.dll
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\OpenTK.pdb
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\OpenTK.xml
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\OpenTK.GLControl.pdb
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\OpenTK.GLControl.xml
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\obj\Debug\lab2.csproj.Up2Date
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\obj\Debug\lab2.exe
+E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\obj\Debug\lab2.pdb
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\lab2.exe.config
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\lab2.exe
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\lab2.pdb
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\OpenTK.dll
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\OpenTK.GLControl.dll
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\OpenTK.pdb
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\OpenTK.xml
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\OpenTK.GLControl.pdb
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\bin\Debug\OpenTK.GLControl.xml
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\obj\Debug\lab2.csproj.Up2Date
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\obj\Debug\lab2.exe
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\lab2\obj\Debug\lab2.pdb

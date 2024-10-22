@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Anul_III\\Semestrul_I\\EGC\\Laborator\\Programs\\Laborator_EGC_02\\OpenTK_Introducere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D97E47-8908-4537-8483-FDD3EFC04E37}|lab2\\lab2.csproj|e:\\anul_iii\\semestrul_i\\egc\\laborator\\programs\\laborator_egc_02\\opentk_introducere\\lab2\\simplewindow3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D97E47-8908-4537-8483-FDD3EFC04E37}|lab2\\lab2.csproj|solutionrelative:lab2\\simplewindow3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D97E47-8908-4537-8483-FDD3EFC04E37}|lab2\\lab2.csproj|E:\\Anul_III\\Semestrul_I\\EGC\\Laborator\\Programs\\Laborator_EGC_02\\OpenTK_Introducere\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D97E47-8908-4537-8483-FDD3EFC04E37}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Anul_III\\Semestrul_I\\EGC\\Laborator\\Programs\\Laborator_EGC_02\\OpenTK_Introducere\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "E:\\Anul_III\\Semestrul_I\\EGC\\Laborator\\Programs\\Laborator_EGC_02\\OpenTK_Introducere\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:22:12.387Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleWindow3D.cs",
+              "DocumentMoniker": "E:\\Anul_III\\Semestrul_I\\EGC\\Laborator\\Programs\\Laborator_EGC_02\\OpenTK_Introducere\\lab2\\SimpleWindow3D.cs",
+              "RelativeDocumentMoniker": "lab2\\SimpleWindow3D.cs",
+              "ToolTip": "E:\\Anul_III\\Semestrul_I\\EGC\\Laborator\\Programs\\Laborator_EGC_02\\OpenTK_Introducere\\lab2\\SimpleWindow3D.cs",
+              "RelativeToolTip": "lab2\\SimpleWindow3D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:24:01.717Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
