@@ -1,0 +1,22 @@
+
+LABORATOR 3
+RĂSPUNSURI LA ÎNTREBĂRI
+
+1. Care este ordinea de desenare a vertexurilor pentru aceste metode (orar sau anti-orar)?
+Ordinea de desenare este, de obicei, în sensul acelor de ceasornic (CW) sau invers (CCW), depinzând de modul implicit al OpenGL. În general, ordinea este invers acelor de ceasornic pentru a defini fața „frontală” a poligoanelor, dar această setare poate fi schimbată.
+2. Ce este anti-aliasing? Prezentați această tehnică pe scurt.
+Anti-aliasingul este o tehnică folosită pentru a reduce marginile zimțate ale obiectelor grafice, rezultând un aspect mai neted. Aceasta se obține prin estomparea tranzițiilor dintre margini și fundal, utilizând valori intermediare de culoare pentru pixeli.
+3. Care este efectul rulării comenzii GL.LineWidth(float)? Dar pentru GL.PointSize(float)? Funcționează în interiorul unei zone GL.Begin()?
+GL.LineWidth(float) setează grosimea liniilor, iar GL.PointSize(float) setează dimensiunea punctelor. Aceste setări pot funcționa în interiorul unui bloc GL.Begin()…GL.End() și afectează desenarea elementelor grafice până la o eventuală modificare ulterioară a acestor valori.
+4. Răspundeți la următoarele întrebări
+	•	LineLoop: Conectează un set de puncte și închide forma prin conectarea ultimului punct cu primul.
+	•	LineStrip: Conectează punctele într-o linie continuă, dar nu închide forma.
+	•	TriangleFan: Creează un set de triunghiuri împărțite în jurul unui punct central comun.
+	•	TriangleStrip: Creează o bandă continuă de triunghiuri împărtășind muchiile între triunghiurile consecutive.
+6. De ce este importantă utilizarea de culori diferite (în gradient sau culori selectate per suprafață) în desenarea obiectelor 3D? Care este avantajul?
+Utilizarea culorilor variate ajută la definirea clară a suprafețelor, îmbunătățind vizibilitatea și adăugând realism prin efecte de gradient, care accentuează conturul și adâncimea obiectelor.
+7. Ce reprezintă un gradient de culoare? Cum se obține acesta în OpenGL?
+Un gradient de culoare este o tranziție lină între două sau mai multe culori. În OpenGL, se obține setând culori diferite la vârfurile primitivei. OpenGL interpolează valorile între aceste puncte.
+10. Ce efect are utilizarea unei culori diferite pentru fiecare vertex atunci când desenați o linie sau un triunghi în modul strip?
+Atribuind culori diferite fiecărui vârf, se creează un efect de gradient de-a lungul liniilor sau suprafețelor triunghiurilor, adăugând variație vizuală și profunzime geometrică obiectelor.
+
