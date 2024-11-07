@@ -167,43 +167,89 @@ namespace lab2
 
         private void DrawCube()
         {
+            //GL.Begin(PrimitiveType.Quads);
+
+            //GL.Color3(Color.Silver);
+            //GL.Vertex3(-3.0f, -3.0f, -3.0f);
+            //GL.Vertex3(-3.0f, 3.0f, -3.0f);
+            //GL.Vertex3(3.0f, 3.0f, -3.0f);
+            //GL.Vertex3(3.0f, -3.0f, -3.0f);
+
+            //GL.Color3(Color.Honeydew);
+            //GL.Vertex3(-3.0f, -3.0f, -3.0f);
+            //GL.Vertex3(3.0f, -3.0f, -3.0f);
+            //GL.Vertex3(3.0f, -3.0f, 3.0f);
+            //GL.Vertex3(-3.0f, -3.0f, 3.0f);
+
+            //GL.Color3(Color.Moccasin);
+            //GL.Vertex3(-3.0f, -3.0f, -3.0f);
+            //GL.Vertex3(-3.0f, -3.0f, 3.0f);
+            //GL.Vertex3(-3.0f, 3.0f, 3.0f);
+            //GL.Vertex3(-3.0f, 3.0f, -3.0f);
+
+            //GL.Color3(Color.IndianRed);
+            //GL.Vertex3(-3.0f, -3.0f, 3.0f);
+            //GL.Vertex3(3.0f, -3.0f, 3.0f);
+            //GL.Vertex3(3.0f, 3.0f, 3.0f);
+            //GL.Vertex3(-3.0f, 3.0f, 3.0f);
+
+            //GL.Color3(Color.PaleVioletRed);
+            //GL.Vertex3(-3.0f, 3.0f, -3.0f);
+            //GL.Vertex3(-3.0f, 3.0f, 3.0f);
+            //GL.Vertex3(3.0f, 3.0f, 3.0f);
+            //GL.Vertex3(3.0f, 3.0f, -3.0f);
+
+            //GL.Color3(Color.ForestGreen);
+            //GL.Vertex3(3.0f, -3.0f, -3.0f);
+            //GL.Vertex3(3.0f, 3.0f, -3.0f);
+            //GL.Vertex3(3.0f, 3.0f, 3.0f);
+            //GL.Vertex3(3.0f, -3.0f, 3.0f);
+
+            //GL.End();
+
             GL.Begin(PrimitiveType.Quads);
 
-            GL.Color3(Color.Silver);
-            GL.Vertex3(-3.0f, -3.0f, -3.0f);
-            GL.Vertex3(-3.0f, 3.0f, -3.0f);
-            GL.Vertex3(3.0f, 3.0f, -3.0f);
-            GL.Vertex3(3.0f, -3.0f, -3.0f);
+            // Fața din față (roșie)
+            GL.Color3(1.0f, 0.0f, 0.0f);
+            GL.Vertex3(-1.0f, -1.0f, 1.0f);
+            GL.Vertex3(1.0f, -1.0f, 1.0f);
+            GL.Vertex3(1.0f, 1.0f, 1.0f);
+            GL.Vertex3(-1.0f, 1.0f, 1.0f);
 
-            GL.Color3(Color.Honeydew);
-            GL.Vertex3(-3.0f, -3.0f, -3.0f);
-            GL.Vertex3(3.0f, -3.0f, -3.0f);
-            GL.Vertex3(3.0f, -3.0f, 3.0f);
-            GL.Vertex3(-3.0f, -3.0f, 3.0f);
+            // Fața din spate (verde)
+            GL.Color3(0.0f, 1.0f, 0.0f);
+            GL.Vertex3(-1.0f, -1.0f, -1.0f);
+            GL.Vertex3(-1.0f, 1.0f, -1.0f);
+            GL.Vertex3(1.0f, 1.0f, -1.0f);
+            GL.Vertex3(1.0f, -1.0f, -1.0f);
 
-            GL.Color3(Color.Moccasin);
-            GL.Vertex3(-3.0f, -3.0f, -3.0f);
-            GL.Vertex3(-3.0f, -3.0f, 3.0f);
-            GL.Vertex3(-3.0f, 3.0f, 3.0f);
-            GL.Vertex3(-3.0f, 3.0f, -3.0f);
+            // Fața din stânga (albastră)
+            GL.Color3(0.0f, 0.0f, 1.0f);
+            GL.Vertex3(-1.0f, -1.0f, -1.0f);
+            GL.Vertex3(-1.0f, -1.0f, 1.0f);
+            GL.Vertex3(-1.0f, 1.0f, 1.0f);
+            GL.Vertex3(-1.0f, 1.0f, -1.0f);
 
-            GL.Color3(Color.IndianRed);
-            GL.Vertex3(-3.0f, -3.0f, 3.0f);
-            GL.Vertex3(3.0f, -3.0f, 3.0f);
-            GL.Vertex3(3.0f, 3.0f, 3.0f);
-            GL.Vertex3(-3.0f, 3.0f, 3.0f);
+            // Fața din dreapta (galbenă)
+            GL.Color3(1.0f, 1.0f, 0.0f);
+            GL.Vertex3(1.0f, -1.0f, -1.0f);
+            GL.Vertex3(1.0f, 1.0f, -1.0f);
+            GL.Vertex3(1.0f, 1.0f, 1.0f);
+            GL.Vertex3(1.0f, -1.0f, 1.0f);
 
-            GL.Color3(Color.PaleVioletRed);
-            GL.Vertex3(-3.0f, 3.0f, -3.0f);
-            GL.Vertex3(-3.0f, 3.0f, 3.0f);
-            GL.Vertex3(3.0f, 3.0f, 3.0f);
-            GL.Vertex3(3.0f, 3.0f, -3.0f);
+            // Fața de sus (cyan)
+            GL.Color3(0.0f, 1.0f, 1.0f);
+            GL.Vertex3(-1.0f, 1.0f, -1.0f);
+            GL.Vertex3(-1.0f, 1.0f, 1.0f);
+            GL.Vertex3(1.0f, 1.0f, 1.0f);
+            GL.Vertex3(1.0f, 1.0f, -1.0f);
 
-            GL.Color3(Color.ForestGreen);
-            GL.Vertex3(3.0f, -3.0f, -3.0f);
-            GL.Vertex3(3.0f, 3.0f, -3.0f);
-            GL.Vertex3(3.0f, 3.0f, 3.0f);
-            GL.Vertex3(3.0f, -3.0f, 3.0f);
+            // Fața de jos (magenta)
+            GL.Color3(1.0f, 0.0f, 1.0f);
+            GL.Vertex3(-1.0f, -1.0f, -1.0f);
+            GL.Vertex3(1.0f, -1.0f, -1.0f);
+            GL.Vertex3(1.0f, -1.0f, 1.0f);
+            GL.Vertex3(-1.0f, -1.0f, 1.0f);
 
             GL.End();
         }

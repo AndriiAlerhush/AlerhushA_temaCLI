@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Triangle3D xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <vertex1>
+    <X>-15</X>
+    <Y>-15</Y>
+    <Z>5</Z>
+  </vertex1>
+  <vertex2>
+    <X>15</X>
+    <Y>15</Y>
+    <Z>5</Z>
+  </vertex2>
+  <vertex3>
+    <X>0</X>
+    <Y>15</Y>
+    <Z>5</Z>
+  </vertex3>
+  <colorVertex1 />
+  <colorVertex1A>255</colorVertex1A>
+  <colorVertex1R>255</colorVertex1R>
+  <colorVertex1G>0</colorVertex1G>
+  <colorVertex1B>0</colorVertex1B>
+  <colorVertex2 />
+  <colorVertex2A>255</colorVertex2A>
+  <colorVertex2R>0</colorVertex2R>
+  <colorVertex2G>128</colorVertex2G>
+  <colorVertex2B>0</colorVertex2B>
+  <colorVertex3 />
+  <colorVertex3A>255</colorVertex3A>
+  <colorVertex3R>0</colorVertex3R>
+  <colorVertex3G>0</colorVertex3G>
+  <colorVertex3B>255</colorVertex3B>
+</Triangle3D>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Axes3D xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <lineLength>30</lineLength>
+  <lineWidth>3</lineWidth>
+  <colorX />
+  <colorXR>255</colorXR>
+  <colorXG>0</colorXG>
+  <colorXB>0</colorXB>
+  <colorY />
+  <colorYR>0</colorYR>
+  <colorYG>128</colorYG>
+  <colorYB>0</colorYB>
+  <colorZ />
+  <colorZR>0</colorZR>
+  <colorZG>0</colorZG>
+  <colorZB>255</colorZB>
+</Axes3D>

@@ -17,7 +17,7 @@ namespace OpenTK_console_sample02
 
         const float rotation_speed = 180.0f;
         float angle;
-        bool showCube = true;
+        bool showCube = true; 
         KeyboardState lastKeyPress;
 
         // Constructor.

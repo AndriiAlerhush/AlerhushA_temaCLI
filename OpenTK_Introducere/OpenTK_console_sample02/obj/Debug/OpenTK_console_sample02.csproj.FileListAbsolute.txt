@@ -65,3 +65,16 @@ E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducer
 E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_c.1703F119.Up2Date
 E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.exe
 E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.pdb
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.exe.config
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.exe
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.pdb
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.dll
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.GLControl.dll
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.pdb
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.xml
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.GLControl.xml
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.csproj.AssemblyReference.cache
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.csproj.CoreCompileInputs.cache
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_c.1703F119.Up2Date
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.exe
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.pdb

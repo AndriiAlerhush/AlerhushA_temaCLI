@@ -24,3 +24,16 @@ E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducer
 E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_i.A6DAB0E1.Up2Date
 E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.exe
 E:\Anul III\Semestrul1\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.pdb
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.exe.config
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.exe
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.pdb
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.dll
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.GLControl.dll
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.pdb
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.xml
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.GLControl.xml
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.AssemblyReference.cache
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.CoreCompileInputs.cache
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_i.A6DAB0E1.Up2Date
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.exe
+E:\Anul_III\Semestrul_I\EGC\Laborator\Programs\Laborator_EGC_02\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.pdb

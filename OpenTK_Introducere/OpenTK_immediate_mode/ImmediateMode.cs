@@ -14,8 +14,8 @@ namespace OpenTK_immediate_mode
         public ImmediateMode() : base(800, 600, new GraphicsMode(32, 24, 0, 8)) {
             VSync = VSyncMode.On;
 
-            Console.WriteLine("OpenGl versiunea: " + GL.GetString(StringName.Version));
-            Title = "OpenGl versiunea: " + GL.GetString(StringName.Version) + " (mod imediat)";
+            Console.WriteLine("OpenGL versiunea: " + GL.GetString(StringName.Version));
+            Title = "OpenGL versiunea: " + GL.GetString(StringName.Version) + " (mod imediat)";
         }
 
         /**Setare mediu OpenGL și încarcarea resurselor (dacă e necesar) - de exemplu culoarea de
@@ -82,26 +82,27 @@ namespace OpenTK_immediate_mode
         private void DrawAxes() {
 
             //GL.LineWidth(3.0f);
+            GL.Begin(PrimitiveType.Lines);
 
             // Desenează axa Ox (cu roșu).
-            GL.Begin(PrimitiveType.Lines);
             GL.Color3(Color.Red);
             GL.Vertex3(0, 0, 0);
             GL.Vertex3(XYZ_SIZE, 0, 0);
-            GL.End();
+            //GL.End();
 
             // Desenează axa Oy (cu galben).
-            GL.Begin(PrimitiveType.Lines);
+            //GL.Begin(PrimitiveType.Lines);
             GL.Color3(Color.Yellow);
             GL.Vertex3(0, 0, 0);
             GL.Vertex3(0, XYZ_SIZE, 0); ;
-            GL.End();
+            //GL.End();
 
             // Desenează axa Oz (cu verde).
-            GL.Begin(PrimitiveType.Lines);
+            //GL.Begin(PrimitiveType.Lines);
             GL.Color3(Color.Green);
             GL.Vertex3(0, 0, 0);
             GL.Vertex3(0, 0, XYZ_SIZE);
+
             GL.End();
         }
 
